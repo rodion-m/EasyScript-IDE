@@ -1,0 +1,35 @@
+[font="Georgia"][align=center][i][b][size=26]RodySoft EasyScript IDE 1.0 Alpha[/size][/b][/i]
+[size=11][color=gray]Авторская раздача[/color][/size][/align]
+[hr]
+[img=right]http://i42.fastpic.ru/big/2012/0908/a1/7c0652954d06ded4ca51e7d783ca8da1.png[/img]
+
+[b]Год/Дата Выпуска[/b]: 2012
+[b]Версия[/b]: 1.0 Alpha
+[b]Разработчик[/b]: RodySoft
+[b]Сайт разработчика[/b]: http://rodysoft.16mb.com
+
+[b]Разрядность[/b]: 32bit+64bit
+[b]Совместимость с Vista[/b]: полная
+[b]Совместимость с Windows 7[/b]: полная
+[b]Язык интерфейса[/b]: Русский
+[b]Таблэтка[/b]: Не требуется
+[b]Системные требования[/b]: Windows 2000+
+[b][size=20][color=#006699]Описание[/color][/size][/b]
+
+[b]RodySoft EasyScript[/b] — скриптовый язык, основной отличительной чертой которого является способность интерпретации различных вариантов одной и той же команды. Язык имеет очень гибкий и многообразный синтаксис, что делает его еще более простым и понятным для человека. А возможность ввода функций и аргументов на русском языке делает EasyScript и вовсе самым человеческим скриптовым языком.
+[b]RodySoft EasyScript IDE[/b] — это комплекс программ, предназначенный для автоматизации действий по управлению компьютером, который содержит полноценный редактор и интерпретатор скриптов EasyScript.
+Программа распространяется вместе со справочным материалом (вызов F1).
+
+[b]Доп. информация[/b]: Это Alpha версия, посему возможны проблемы самого разного характера.
+В комплекте с EasyScript IDE содержится программа RodySoft Most Fastetst Clicker — это усовершенствованная версия Max Speed Clicker'a. Теперь она позволяет производить до 10000 кликов в секунду.
+[hr]
+[spoiler="Для тех, кто не знает с чего начать"]Для того, чтобы начать  работу с программой, запустите EasyScript Editor, выберите Действия -> Начать запись. Для того, чтобы остановить запись, нажмите Ctrl+R. После этого сохраните скрипт.
+[/spoiler]
+[spoiler="Скриншоты"]
+[URL=http://fastpic.ru/view/43/2012/0908/6d70ad7657faec727ff0d7c0c08401e4.jpg.html][IMG]http://i43.fastpic.ru/thumb/2012/0908/e4/6d70ad7657faec727ff0d7c0c08401e4.jpeg[/IMG][/URL] [URL=http://fastpic.ru/view/43/2012/0908/c0f051a37a9357bda69eb95d1d2381fd.jpg.html][IMG]http://i43.fastpic.ru/thumb/2012/0908/fd/c0f051a37a9357bda69eb95d1d2381fd.jpeg[/IMG][/URL] [URL=http://fastpic.ru/view/43/2012/0908/43ff0ab00c9f65cc25a0c4cd8e98150d.jpg.html][IMG]http://i43.fastpic.ru/thumb/2012/0908/0d/43ff0ab00c9f65cc25a0c4cd8e98150d.jpeg[/IMG][/URL]
+[/spoiler]
+
+[spoiler="Скриншоты окна About"]
+[URL=http://fastpic.ru/view/43/2012/0908/ead8ba8ddd60757e1bb36778e1585a46.jpg.html][IMG]http://i43.fastpic.ru/thumb/2012/0908/46/ead8ba8ddd60757e1bb36778e1585a46.jpeg[/IMG][/URL][URL=http://fastpic.ru/view/43/2012/0908/9e6f77a502355834e43ecd99f81ac532.jpg.html][IMG]http://i43.fastpic.ru/thumb/2012/0908/32/9e6f77a502355834e43ecd99f81ac532.jpeg[/IMG][/URL]
+[/spoiler]
+[/font]

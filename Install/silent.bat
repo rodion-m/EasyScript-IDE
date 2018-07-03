@@ -1,0 +1,1 @@
+EasyScript.exe /s
